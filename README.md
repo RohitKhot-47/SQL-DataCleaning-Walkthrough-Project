@@ -50,7 +50,3 @@ Dataset source: [Kaggle — Layoffs 2022](https://www.kaggle.com/datasets/swaptr
 `ROW_NUMBER()` · `PARTITION BY` · `CTEs` · `Self JOIN` · `STR_TO_DATE()` · `TRIM()` · `ALTER TABLE` · `UPDATE` · `DELETE`
 
 ---
-
-## 🚀 What's Next
-
-EDA and original analysis coming in my next project — **B99 Data Analysis** — built independently from scratch.
